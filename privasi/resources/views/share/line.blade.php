@@ -1,0 +1,1 @@
+http://line.me/R/msg/text/{{ rawurlencode($url)}}

@@ -1,0 +1,10 @@
+Credit
+0. Laravel 5.2
+1. bootstrap
+2. Jquery
+3. Solid CSS 
+4. FOnt Awesome
+5. Little Tweak on hover
+6. Magnific-Popup
+7. https://github.com/prodeveloper/social-share#share
+8. https://github.com/Intervention/image

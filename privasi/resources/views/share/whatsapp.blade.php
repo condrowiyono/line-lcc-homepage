@@ -1,0 +1,1 @@
+whatsapp://send?text={{ rawurlencode($url)}}
